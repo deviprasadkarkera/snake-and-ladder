@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snake&amp;Ladder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="playbtn">PLAY</string>
+    <string name="optionbtn">OPTION</string>
+    <string name="controlbtn">CONTROLS</string>
+    <string name="exitbtn">EXIT</string>
+    <string name="soundbtn">SOUND</string>
+    <string name="musicbtn">MUSIC</string>
+    <string name="vibrationbtn">VIBRATION</string>
+    <string name="musictxtview">Music</string>
+    <string name="soundtxtview">Sound</string>
+    <string name="vibrationtxtview">Vibration</string>
+
+</resources>
